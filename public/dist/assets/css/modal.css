@@ -1,0 +1,26 @@
+.custom-table th {
+    width: 30%;
+    background-color: #f8f9fa;
+    border-color: #dee2e6;
+    text-align: left;
+    padding: 10px;
+}
+
+.custom-table td {
+    border-color: #dee2e6;
+    padding: 10px;
+}
+
+.document-link {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.document-link:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,28 @@
+.sidebar-brand {
+    text-align: center; /* Pusatkan teks dan logo */
+    padding: 20px 0; /* Beri jarak pada atas dan bawah */
+}
+
+/* Atur gaya untuk logo kecil di sidebar */
+.sidebar-brand.sidebar-brand-sm {
+    text-align: center; /* Pusatkan teks dan logo */
+    padding: 10px 0; /* Beri jarak pada atas dan bawah */
+}
+
+/* Atur gaya untuk logo kecil di sidebar */
+.sidebar-brand.sidebar-brand-sm a {
+    font-size: 18px; /* Atur ukuran teks */
+}
+
+/* Atur gaya untuk logo besar di sidebar */
+.sidebar-brand a {
+    font-size: 20px; /* Atur ukuran teks */
+    font-weight: bold; /* Tambahkan ketebalan huruf jika perlu */
+}
+
+/* Atur gaya untuk gambar logo besar di dalam .login-brand */
+.login-brand img {
+    display: block; /* Agar gambar berada di tengah */
+    margin: 0 auto; /* Pusatkan gambar secara horizontal */
+    border-radius: 50%; /* Agar gambar berbentuk lingkaran (opsional) */
+}
